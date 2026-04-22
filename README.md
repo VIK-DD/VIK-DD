@@ -101,7 +101,15 @@ I run a Raspberry Pi Zero 2W as a 24/7 home server, accessible from anywhere via
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIK-DD&theme=github-compact&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VIK-DD&theme=darkhub&no-frame=true&row=1&column=7)
+</div>
+
+---
+
+## 💭 Thought of the day
+
+<div align="center">
+
+![Quote](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;It+works+on+my+machine.+%E2%80%94+every+developer%2C+ever.;Any+fool+can+write+code+a+computer+understands.;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds)
 
 </div>
 
