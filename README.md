@@ -99,7 +99,7 @@ I run a Raspberry Pi Zero 2W as a 24/7 home server, accessible from anywhere via
 
 <div align="center">
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIK-DD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VIK-DD&theme=github-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIK-DD&layout=compact&theme=github_dark&hide_border=true)
 
