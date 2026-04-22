@@ -101,7 +101,7 @@ I run a Raspberry Pi Zero 2W as a 24/7 home server, accessible from anywhere via
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIK-DD&theme=github-compact&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIK-DD&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIK-DD&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=css,scss&card_width=400)
 
 </div>
 
