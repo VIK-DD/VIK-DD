@@ -15,7 +15,7 @@
 
 ## 🔭 Currently working on
 
-- **[Phishing Guardian](https://github.com/VIK)** — Full-stack interactive phishing prevention app with a 3D conversational avatar. Stack: React + Vite + Tailwind + FastAPI + SQLAlchemy + Ollama (`gemma3:12b`) + Faster Whisper STT + Piper TTS + Rhubarb Lip Sync. Annual thesis project — deadline: May 2026.
+- **[Phishing Guardian](https://github.com/VIK)** — Full-stack interactive phishing prevention app with a 3D conversational avatar. Stack: React + Vite + Tailwind + FastAPI + SQLAlchemy + Ollama (`gemma3:12b`) + Faster Whisper STT + Piper TTS + Rhubarb Lip Sync.
 - **[Pi Guardian](https://github.com/VIK)** — Real-time Raspberry Pi monitoring dashboard (FastAPI + vanilla JS, hosted on Pi Zero 2W via PM2 + Tailscale), with multi-user auth, admin approval flows, and live system stats.
 
 ---
