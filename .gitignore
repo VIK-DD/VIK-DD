@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
