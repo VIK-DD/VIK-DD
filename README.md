@@ -15,8 +15,8 @@
 
 ## 🔭 Currently working on
 
-- **[Phishing Guardian](https://github.com/VIK)** — Full-stack interactive phishing prevention app with a 3D conversational avatar. Stack: React + Vite + Tailwind + FastAPI + SQLAlchemy + Ollama (`gemma3:12b`) + Faster Whisper STT + Piper TTS + Rhubarb Lip Sync.
-- **[Pi Guardian](https://github.com/VIK)** — Real-time Raspberry Pi monitoring dashboard (FastAPI + vanilla JS, hosted on Pi Zero 2W via PM2 + Tailscale), with multi-user auth, admin approval flows, and live system stats.
+- **[NovaGuard](https://github.com/VIK-DD/NovaGuard)** — Self-hosted Discord bot in Python: 85 slash commands covering XP levels, an economy whose items actually do something, monthly voice-hour tracking, music, moderation and automod. It writes its own changelog by fingerprinting its source on every start, and [novaguard.fun](https://novaguard.fun) is generated from that same feed.
+- **[Pi Guardian](https://github.com/VIK-DD/raspberry-pi-monitor)** — Real-time Raspberry Pi monitoring dashboard (FastAPI + WebSocket, hosted on a Pi Zero 2W via PM2 + Tailscale), with live metrics, AdGuard Home stats, network latency, alerts and automated reports.
 
 ---
 
@@ -82,7 +82,7 @@
 
 - Building full-stack apps with **FastAPI** + **React**
 - Running **local AI models** with Ollama on consumer hardware
-- **Discord bots** (CloudBot 👾)
+- **Discord bots** — slash commands, cogs, and keeping one alive on a small VPS (NovaGuard 🛡️)
 - **Raspberry Pi** home lab setups + remote access via Tailscale
 - PHP web development & REST APIs
 - Academic survival as a CS student in Moldova 🇲🇩
