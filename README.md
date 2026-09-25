@@ -103,7 +103,7 @@ I run a Raspberry Pi Zero 2W as a 24/7 home server, accessible from anywhere via
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIK-DD&theme=github-compact&hide_border=true)
+![Activity Graph](https://ghchart.rshah.org/409ba5/VIK-DD)
 
 </div>
 
