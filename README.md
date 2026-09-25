@@ -103,7 +103,7 @@ I run a Raspberry Pi Zero 2W as a 24/7 home server, accessible from anywhere via
 
 <div align="center">
 
-![Activity Graph](https://ghchart.rshah.org/409ba5/VIK-DD)
+![Activity Graph](https://ghchart.rshah.org/6cc644/VIK-DD)
 
 </div>
 
